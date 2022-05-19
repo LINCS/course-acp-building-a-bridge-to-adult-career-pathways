@@ -1,0 +1,121 @@
+{
+  "version": "3.60.26947.0",
+  "course_id": "5gDCcJyOd4Z_course_id",
+  "title": "LINCS 5-2 course 2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Case 1"
+    },
+    {
+      "title": "Case 2"
+    },
+    {
+      "title": "Reflection"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6UzwD6O7fdL",
+      "title": "Building a Bridge to College Program",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6aJA8QMr8Pd",
+      "title": "How to Use this Scenario",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6pBPulUQjxO",
+      "title": "Background Part 1",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6UTGRwQN6P3",
+      "title": "Background Part 2",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6nJ32GEP5Fc",
+      "title": "The Scene",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6AmKlrFe3Bp",
+      "title": "Characters/Perspectives",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "69tBalNKHp8",
+      "title": "Case 1",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6Zl4iC5JGy4",
+      "title": "Building a Bridge to College Program",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "5j0ctVxibXt",
+      "title": "Building a Bridge to College Program",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6oFi3bCeI9K",
+      "title": "Building a Bridge to College Program",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5dyStI7SgX3",
+      "title": "Building a Bridge to College Program",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6HqU99uvyFE",
+      "title": "Building a Bridge to College Program",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6YA9LndXgbc",
+      "title": "Building a Bridge to College Program",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6jogxqUASE9",
+      "title": "Case 2 Outcome",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6JTVnn8NLAE",
+      "title": "Questions for Reflection on These Cases",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "60Ny5WbPa6Q",
+      "title": "Questions for Reflection and Discussion Part 1 of 2",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6DnaVlsPsbr",
+      "title": "Questions for Reflection and Discussion Part 2 of 2",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6o2pBjn0r6o",
+      "title": "Congratulations",
+      "scene_index": "4.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

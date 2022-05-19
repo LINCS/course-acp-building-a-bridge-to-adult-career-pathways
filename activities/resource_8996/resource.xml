@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="201" moduleid="8996" modulename="resource" contextid="57244">
+  <resource id="201">
+    <name>Unit 1: Defining Bridge Programs</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Review the Navigation &amp;amp; Accessibility section, then continue to other sections to complete the unit.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;em&gt;The default view opens the unit in&amp;nbsp;this&amp;nbsp;browser window.&amp;nbsp;Alternate viewing option:&amp;nbsp;&lt;a href="https://courses.lincs.ed.gov/pluginfile.php/57244/mod_resource/content/6/content/index.html" target="_blank"&gt;Open the unit in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>8</revision>
+    <timemodified>1649190543</timemodified>
+  </resource>
+</activity>

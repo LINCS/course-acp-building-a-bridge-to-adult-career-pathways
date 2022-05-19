@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="14" moduleid="8994" modulename="glossary" contextid="57242">
+  <glossary id="14">
+    <name>ACP Glossary of Key Terms</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;The glossary contains the same terms and definitions for all three courses in the ACP series. It is intended to aid in your understanding of new vocabulary and critical concepts introduced in the courses.&amp;nbsp;At any point during the course, return here to refer to the ACP Glossary of Key Terms to check your understanding of concepts.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <allowduplicatedentries>0</allowduplicatedentries>
+    <displayformat>dictionary</displayformat>
+    <mainglossary>1</mainglossary>
+    <showspecial>0</showspecial>
+    <showalphabet>1</showalphabet>
+    <showall>1</showall>
+    <allowcomments>0</allowcomments>
+    <allowprintview>1</allowprintview>
+    <usedynalink>1</usedynalink>
+    <defaultapproval>1</defaultapproval>
+    <globalglossary>0</globalglossary>
+    <entbypage>10</entbypage>
+    <editalways>0</editalways>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <timecreated>1625070425</timecreated>
+    <timemodified>1626725004</timemodified>
+    <completionentries>0</completionentries>
+    <entries>
+    </entries>
+    <entriestags>
+    </entriestags>
+    <categories>
+    </categories>
+  </glossary>
+</activity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="5" moduleid="8999" modulename="h5pactivity" contextid="57247">
+  <h5pactivity id="5">
+    <name>Learning Check 1</name>
+    <timecreated>1623756604</timecreated>
+    <timemodified>1646075843</timemodified>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Now that you are midway through this course, you will have an opportunity to gauge and reinforce what you’ve learned.&amp;nbsp;Once finished, select the link titled "Unit 4: Marketing the Bridge Program" at the bottom of the screen to move on.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <grade>100</grade>
+    <displayoptions>15</displayoptions>
+    <enabletracking>1</enabletracking>
+    <grademethod>1</grademethod>
+    <reviewmode>1</reviewmode>
+    <attempts>
+    </attempts>
+  </h5pactivity>
+</activity>

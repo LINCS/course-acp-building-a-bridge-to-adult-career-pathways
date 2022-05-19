@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+  <content id="10">
+    <name>Course Overview</name>
+    <contenttype>contenttype_h5p</contenttype>
+    <instanceid>0</instanceid>
+    <configdata></configdata>
+    <usercreated>26700</usercreated>
+    <usermodified>26700</usermodified>
+    <timecreated>1623755643</timecreated>
+    <timemodified>1649096627</timemodified>
+  </content>
+  <content id="11">
+    <name>Learning Check 1</name>
+    <contenttype>contenttype_h5p</contenttype>
+    <instanceid>0</instanceid>
+    <configdata></configdata>
+    <usercreated>26700</usercreated>
+    <usermodified>26700</usermodified>
+    <timecreated>1623756407</timecreated>
+    <timemodified>1649096627</timemodified>
+  </content>
+  <content id="12">
+    <name>Final Learning Check</name>
+    <contenttype>contenttype_h5p</contenttype>
+    <instanceid>0</instanceid>
+    <configdata></configdata>
+    <usercreated>26700</usercreated>
+    <usermodified>26700</usermodified>
+    <timecreated>1623757149</timecreated>
+    <timemodified>1649096627</timemodified>
+  </content>
+</contents>

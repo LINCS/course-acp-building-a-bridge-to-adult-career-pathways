@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="205" moduleid="9001" modulename="resource" contextid="57249">
+  <resource id="205">
+    <name>Unit 5:  Evaluating the Bridge Program</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in&amp;nbsp;this&amp;nbsp;browser window.&amp;nbsp;Alternate viewing option:&amp;nbsp;&lt;a href="https://courses.lincs.ed.gov/pluginfile.php/57249/mod_resource/content/8/content/index.html" target="_blank"&gt;Open the unit in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>10</revision>
+    <timemodified>1649191961</timemodified>
+  </resource>
+</activity>
